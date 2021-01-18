@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CurrentDateAndTime/CurrentDateAndTime.iml" filepath="$PROJECT_DIR$/CurrentDateAndTime/CurrentDateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleServlet/SimpleServlet.iml" filepath="$PROJECT_DIR$/SimpleServlet/SimpleServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleServletNoDescriptor/SimpleServletNoDescriptor.iml" filepath="$PROJECT_DIR$/SimpleServletNoDescriptor/SimpleServletNoDescriptor.iml" />
+    </modules>
+  </component>
+</project>
