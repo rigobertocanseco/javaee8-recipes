@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MathServlet/MathServlet.iml" filepath="$PROJECT_DIR$/MathServlet/MathServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleServlet/SimpleServlet.iml" filepath="$PROJECT_DIR$/SimpleServlet/SimpleServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleServletNoDescriptor/SimpleServletNoDescriptor.iml" filepath="$PROJECT_DIR$/SimpleServletNoDescriptor/SimpleServletNoDescriptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartupShutdownListener/StartupShutdownListener.iml" filepath="$PROJECT_DIR$/StartupShutdownListener/StartupShutdownListener.iml" />
     </modules>
   </component>
 </project>
