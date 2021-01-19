@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SimpleServletFilter">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleServletFilter</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SimpleServletFilter/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimpleServletFilter" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
