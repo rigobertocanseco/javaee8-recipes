@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CurrentDateAndTime/CurrentDateAndTime.iml" filepath="$PROJECT_DIR$/CurrentDateAndTime/CurrentDateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathServlet/MathServlet.iml" filepath="$PROJECT_DIR$/MathServlet/MathServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleServlet/SimpleServlet.iml" filepath="$PROJECT_DIR$/SimpleServlet/SimpleServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleServletNoDescriptor/SimpleServletNoDescriptor.iml" filepath="$PROJECT_DIR$/SimpleServletNoDescriptor/SimpleServletNoDescriptor.iml" />
     </modules>
