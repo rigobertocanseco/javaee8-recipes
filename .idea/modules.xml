@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/CurrentDateAndTime/CurrentDateAndTime.iml" filepath="$PROJECT_DIR$/CurrentDateAndTime/CurrentDateAndTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/DownloadFile/DownloadFile.iml" filepath="$PROJECT_DIR$/DownloadFile/DownloadFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathServlet/MathServlet.iml" filepath="$PROJECT_DIR$/MathServlet/MathServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redirect/RedirectServlet.iml" filepath="$PROJECT_DIR$/Redirect/RedirectServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/RequestDispatch/RequestDispatch.iml" filepath="$PROJECT_DIR$/RequestDispatch/RequestDispatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/SessionListener/SessionListener.iml" filepath="$PROJECT_DIR$/SessionListener/SessionListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/SettingInitializationParameters/SettingInitializationParameters.iml" filepath="$PROJECT_DIR$/SettingInitializationParameters/SettingInitializationParameters.iml" />
