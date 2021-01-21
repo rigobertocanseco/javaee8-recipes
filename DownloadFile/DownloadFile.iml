@@ -13,7 +13,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/WEB-INF/classes/com.rigobertocanseco.javaee8_recipes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WEB-INF/classes" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

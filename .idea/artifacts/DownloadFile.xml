@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DownloadFile">
+    <output-path>$PROJECT_DIR$/out/artifacts/DownloadFile</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DownloadFile/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DownloadFile" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
