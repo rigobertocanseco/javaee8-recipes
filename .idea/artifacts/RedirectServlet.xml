@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RedirectServlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/RedirectServlet</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RedirectServlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RedirectServlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
