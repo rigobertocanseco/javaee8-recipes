@@ -43,7 +43,7 @@ public final class AttributeListener implements ServletContextListener, HttpSess
     public void attributeReplaced(HttpSessionBindingEvent httpSessionBindingEvent) {
         String name = httpSessionBindingEvent.getName();
         if(name == null) {
-            name ="Unknown";
+            name = "Unknown";
         }
         String value = (String) httpSessionBindingEvent.getValue();
         String message = new StringBuffer("Attribute has been replaced:\n").append(name).toString();
